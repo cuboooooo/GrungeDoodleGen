@@ -23,6 +23,8 @@ and add a curve. at the end, you will get the visual that we created blobby circ
 
 * the sliders do not move.
 
+* Does not work on mobile.
+
 These are easy fixes, but this was meant to be a quick 2-5 hour coding challenge, not a production quality product. 
 
 ### If i come back, what will I add
@@ -32,6 +34,10 @@ These are easy fixes, but this was meant to be a quick 2-5 hour coding challenge
 * make a fork allowing for curved line inputs
 
 * make a way to import/export an "artwork" as text (for sharing and debugging)
+
+* A grainy texture on the background for fun
+
+* Mobile-Friendly click-and-dragging
 
 ### What you can change in the console
 
