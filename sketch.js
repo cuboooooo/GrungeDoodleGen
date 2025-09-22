@@ -19,6 +19,7 @@
 // TODO : Add curved lines? makes it look cooler irl, but probably very hard to impliment
 //        you'd need to define the curve as a parametric function so that you could find the midpoint and move back and forth on it... and drawing the curves would be far more difficult.
 // TODO : you could add a way to backup an artpiece as text (also easier for debugging)
+// TODO : add grain texture
 
 // TOFIX
 // TODO TOFIX: create a ton of lines. some will dissapear. debug that. could be the below issie
