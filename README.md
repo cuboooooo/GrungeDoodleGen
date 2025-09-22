@@ -25,6 +25,8 @@ and add a curve. at the end, you will get the visual that we created blobby circ
 
 * Does not work on mobile.
 
+* jk something broke and now adding a 3rd line to a vertex leads to logic errors.
+
 These are easy fixes, but this was meant to be a quick 2-5 hour coding challenge, not a production quality product. 
 
 ### If i come back, what will I add
